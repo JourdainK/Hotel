@@ -1,4 +1,4 @@
-package com.jourdainK.lil.Hotel.data.service;
+package com.jourdainK.lil.Hotel.service;
 
 import java.sql.Date;
 import java.util.HashMap;
@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 import com.jourdainK.lil.Hotel.data.repository.GuestRepository;
 import com.jourdainK.lil.Hotel.data.repository.ReservationRepository;
 import com.jourdainK.lil.Hotel.data.repository.RoomRepository;
-import com.jourdainK.lil.Hotel.data.service.model.RoomReservation;
+import com.jourdainK.lil.Hotel.service.model.RoomReservation;
 import com.jourdainK.lil.Hotel.data.entity.Reservation;
 import com.jourdainK.lil.Hotel.data.entity.Room;
 import com.jourdainK.lil.Hotel.data.entity.Guest;

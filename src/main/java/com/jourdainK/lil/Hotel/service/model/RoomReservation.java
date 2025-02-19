@@ -1,4 +1,4 @@
-package com.jourdainK.lil.Hotel.data.service.model;
+package com.jourdainK.lil.Hotel.service.model;
 
 import lombok.Getter;
 import lombok.Setter;
