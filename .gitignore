@@ -33,4 +33,8 @@ build/
 .vscode/
 
 
+<<<<<<< Updated upstream
+=======
+### Application Properties ###
+>>>>>>> Stashed changes
 src/main/resources/application.properties
